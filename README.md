@@ -5,7 +5,7 @@ Medication Tracker is an Android application designed to help users manage their
 The application also includes clinician-focused functionality and integrates external services such as OpenFDA for medication information and Google Gemini for AI-powered assistance.
 
 ✨ Features
-Medication Management — Add and manage medication information in one place.
+Medication Management - Add and manage medication information in one place.
 Medication Reminders — Schedule reminders to support consistent medication routines.
 Symptom Tracking — Record and monitor symptoms over time.
 Drug Information Search — Retrieve medication information using the OpenFDA API.
@@ -131,6 +131,14 @@ Sync the Gradle project and run the application using an Android emulator or phy
 📸 Screenshots
 
 Screenshots of the application interface will be added here.
+
+<p align="center">
+  <img src="welcome.png" width="180" alt="Welcome Screen"/>
+  <img src="home.png" width="180" alt="Home Screen"/>
+  <img src="symptoms.png" width="180" alt="Symptoms Screen"/>
+  <img src="medcoach.png" width="180" alt="MedCoach Screen"/>
+  <img src="settings.png" width="180" alt="Settings Screen"/>
+</p>
 
 🔒 Security
 
